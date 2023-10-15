@@ -1,0 +1,46 @@
+
+.house {
+  text-align: center;
+  background-color: #e9e9e8;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: 0 auto;
+}
+
+
+label {
+  display: block;
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+input[type="submit"] {
+  background-color: #fd031c;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+
+#formEL {
+  text-align: center;
+}
